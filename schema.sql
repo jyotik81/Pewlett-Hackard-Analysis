@@ -1,4 +1,4 @@
---  Data is from https://github.com/vrajmohan/pgsql-sample-data/tree/master/employee
+
 -- Creating tables for PH-EmployeeDB
 CREATE TABLE departments (
   dept_no VARCHAR(4) NOT NULL,
